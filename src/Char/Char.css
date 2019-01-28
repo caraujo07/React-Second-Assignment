@@ -1,0 +1,11 @@
+.char {
+  display: inline-block;
+  font-size: 1.2em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 16px;
+  margin: 16px;
+  color: #fff;
+  background: #84e;
+  border: 1px solid #8844ee;
+  text-align: center;
+}
